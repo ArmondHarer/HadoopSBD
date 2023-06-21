@@ -44,7 +44,7 @@ Panduan berikut dapat disesuaikan berdasarkan OS yang digunakan (Windows, Mac, L
 
 ## Inisiasi WordCount Java
 
-Dokumen yang akan digunakan untuk wordcount dapat diakses [`disini`](https://drive.google.com/drive/u/0/folders/18P4vR1J6z0deNKjm7rcqRgFeuCp0jf2G), dengan pemilik asli teman saya [Rakha Argya Zahran](https://github.com/Rakha28). Terdapat empat file .txt, masing-masing dengan ukuran sebagai berikut: `1mb`, `10mb`, `100mb`, dan `1000mb`. Dua metode WordCount berbeda akan diuji, yaitu menggunakan kode Java dan menggunakan mapreduce pada Hadoop. Pengujian akan dilakukan empat kali untuk setiap metode untuk masing-masing file, dimana rata-rata dari hasil akan dihitung, dianalisa, dan dibandingkan.
+Karena terdapat batasan ukuran file yang ditetapkan oleh Github, dokumen yang akan digunakan untuk wordcount dapat diakses [`disini`](https://drive.google.com/drive/u/0/folders/18P4vR1J6z0deNKjm7rcqRgFeuCp0jf2G), dengan pemilik asli teman saya [Rakha Argya Zahran](https://github.com/Rakha28). Terdapat empat file .txt, masing-masing dengan ukuran sebagai berikut: `1mb`, `10mb`, `100mb`, dan `1000mb`. Dua metode WordCount berbeda akan diuji, yaitu menggunakan kode Java dan menggunakan mapreduce pada Hadoop. Pengujian akan dilakukan empat kali untuk setiap metode untuk masing-masing file, dimana rata-rata dari hasil akan dihitung, dianalisa, dan dibandingkan.
 
 WordCount menggunakan kode konvensional dalam bahasa pemrograman Java adalah sebagai berikut, mengambil dari [referensi berikut](https://www.codespeedy.com/count-number-of-occurrences-of-a-word-in-a-text-file-in-java/) dengan sedikit modifikasi. Disertakan juga penjelasan dan instruksi untuk menjalankan kode tersebut
 
